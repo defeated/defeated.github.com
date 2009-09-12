@@ -1,0 +1,7 @@
+html,body{height:100%;}
+body{font:normal normal normal 17px/25px Georgia,serif;}
+#container{width:515px;position:absolute;top:50%;left:50%;margin-left:-258px;margin-top:-170px;}
+#flip{position:relative;}
+#twitter_div{position:absolute;top:215px;left:165px;width:305px;height:85px;overflow:auto;}
+#twitter_update_list span{display:block;}
+#twitter_update_list span + a{float:right;}
